@@ -8,7 +8,7 @@ This application is a multilingual voice bot that allows users to interact with 
 
 The system architecture is illustrated in the following diagram:
 
-\VoiceBotArchitecture.jpg
+![System Architecture](VoiceBotArchitecture.jpg)
 
 **Key Components:**
 
